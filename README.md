@@ -2,7 +2,7 @@
 
 A comprehensive, data-driven HR analytics and performance evaluation dashboard built with React. This application provides enterprise-grade tools to manage departmental KPIs, calculate employee bonus pools based on performance thresholds, and model company-wide profit factor metrics in real-time[cite: 3].
 
-🎨 **Design & Development by:** Mehdi Salmanmanesh
+🎨 **Design & Development by:** Mehdi Salman Manesh
 📌 **Live Demo:** [bravo-gauge-spark.lovable.app](https://bravo-gauge-spark.lovable.app/)
 
 ---
